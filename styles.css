@@ -1,0 +1,20 @@
+/*
+Cuerpo de la página (body):
+	Color de fondo: #dcdbdb
+	Tipo de letra: Arial (en caso de no disponer de ella, indicar fuente “sans serif”)
+	Margen ext. superior: 100px;
+	Margen ext. izquierdo: 200px;
+	Margen interior: 5px
+	Borde: Sólido, 2px de grosor y de color negro.
+	800px de ancho total.
+*/
+
+body {
+	background-color : #dcdbdb;
+	font-family: arial, sans serif;
+	margin-top: 100px;
+	margin-left: 200px;
+	padding: 5px;
+	border: 2px solid black;
+	width: 800px
+}
